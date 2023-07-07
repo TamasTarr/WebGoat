@@ -11,4 +11,4 @@ steps:
      --detect.blackduck.signature.scanner.upload.source.mode=true
      --detect.npm.dependency.types.excluded: DEV
      --detect.project.name=WebGoat_Azure_Tamas
-     --detect.project.version.name=develop
+     --detect.project.version.name=helm
